@@ -1,19 +1,25 @@
 .back-image{
-    background-image: url(bg.png.jpg);
-    background-repeat: no-repeat;
+    background-image:url(bg.png.jpg);
+    background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
     background-attachment:fixed;
-    height: 700px;
+    height:700px;
 }
 .collection-cloth{
     padding-top: 180px;
 
 }
-.shop-now{
+.shop-now,.buy-now{
     width: 130px;
     height: 35px;
     background-color: #8d7243;
     color: white;
     border: none;
+}
+.section2{
+    background-color: #ececec;
+}
+.shop-content{
+    padding-top: 60px;
 }
